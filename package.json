@@ -1,6 +1,7 @@
 {
   "name": "gpsfix-server",
   "version": "1.0.0",
+  "description": "Server GPS ke Firebase",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
